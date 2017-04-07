@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.exe
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.pdb
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.exe
+c:\users\admin\documents\visual studio 2012\Projects\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.pdb
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.exe.config
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.exe
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.pdb
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.exe
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\bin\Debug\TP1_Rojas_Fernanda.pdb
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.Form1.resources
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.Properties.Resources.resources
+C:\Users\Admin\Desktop\TP1_Rojas_Fernanda\TP1_Rojas_Fernanda\obj\Debug\TP1_Rojas_Fernanda.csproj.GenerateResource.Cache
